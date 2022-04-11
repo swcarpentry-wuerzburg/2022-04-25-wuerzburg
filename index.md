@@ -261,8 +261,9 @@ Edit the text to match who can attend the workshop. For instance:
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
  This workshop is primarily intended for PhD students and PostDocs at the university of Würzburg.
-  Please sign up using the <a href="https://www.graduateschools.uni-wuerzburg.de/life-sciences/doctoral-researchers/training/transferable-skills/transferable-skills-registration/">Transferrable Skills page of the GSLS</a>.
-    It is still open to anyone who wants to attend if seats are available (just contact one of the instructors).    This workshop is open to ....
+  Please sign up using the <a href="https://gsls.cloud.opencampus.net/node/43058">Transferrable Skills page of the GSLS</a>.
+ You need to create an account there, but it is also open for external persons.
+    It is still open to anyone who wants to attend if seats are available (just contact one of the instructors).
 </p>
 
 
